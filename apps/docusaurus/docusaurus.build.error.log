@@ -1,0 +1,51 @@
+./src/components/HomepageFeatures.js
+Module not found: Error: Can't resolve '@svgr/webpack' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus'
+ @ ./src/components/HomepageFeatures.js 1:928-983
+ @ ./src/pages/index.js
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+./src/components/HomepageFeatures.js
+Module not found: Error: Can't resolve '@svgr/webpack' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus'
+ @ ./src/components/HomepageFeatures.js 1:596-650
+ @ ./src/pages/index.js
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+./src/components/HomepageFeatures.js
+Module not found: Error: Can't resolve '@svgr/webpack' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus'
+ @ ./src/components/HomepageFeatures.js 1:306-364
+ @ ./src/pages/index.js
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+./docs/tutorial-basics/markdown-features.mdx
+Module not found: Error: Can't resolve 'url-loader' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus\docs\tutorial-basics'
+ @ ./docs/tutorial-basics/markdown-features.mdx 1:4026-4204
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+./docs/tutorial-extras/translate-your-site.md
+Module not found: Error: Can't resolve 'url-loader' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus\docs\tutorial-extras'
+ @ ./docs/tutorial-extras/translate-your-site.md 1:5041-5232
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+./docs/tutorial-extras/manage-docs-versions.md
+Module not found: Error: Can't resolve 'url-loader' in 'D:\workspace\opensource\rush-dependencies\apps\docusaurus\docs\tutorial-extras'
+ @ ./docs/tutorial-extras/manage-docs-versions.md 1:3608-3804
+ @ ./.docusaurus/registry.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/exports/ComponentCreator.js
+ @ ./.docusaurus/routes.js
+ @ D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
+ @ multi D:/workspace/opensource/rush-dependencies/common/temp/node_modules/.pnpm/@docusaurus/core@2.0.0-alpha.73_react-dom@17.0.2+react@17.0.2/node_modules/@docusaurus/core/lib/client/clientEntry.js
