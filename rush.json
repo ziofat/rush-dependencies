@@ -444,6 +444,11 @@
        * NOTE: "versionPolicyName" and "shouldPublish" are alternatives; you cannot specify them both.
        */
       // "versionPolicyName": ""
+    },
+    {
+      "packageName": "@ziofat/docusaurus",
+      "projectFolder": "apps/docusaurus",
+      "reviewCategory": "production"
     }
     //
     // {
